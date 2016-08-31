@@ -91,11 +91,11 @@ button.rollButton {
   width: 20px;
 }
 
-button.newgame {
+button.newGame {
   background-color: red;
   width: 40px;
 }
-button.newgame:disabled {background-color: lightgray}
+button.newGame:disabled {background-color: lightgray}
 
 button.undo {
   background-color: orange;
